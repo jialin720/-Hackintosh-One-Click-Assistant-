@@ -1,6 +1,6 @@
 # -Hackintosh-One-Click-Assistant-
 更简单的一体式软件
-# 🍎 黑苹果一键辅助工具 (Hackintosh One-Click Assistant)
+# 黑苹果一键辅助工具 (Hackintosh One-Click Assistant)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
